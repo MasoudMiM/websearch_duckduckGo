@@ -1,7 +1,7 @@
  DuckDuckGo Search Interface
 ============================
 
-A Streamlit application to interact with the DuckDuckGo search engine API. This application allows you to search for text, images, videos, news, maps, and translate content. It also includes an AI chat feature that allows you to have anonymous conversations with 3rd-party AI chat models.
+A Streamlit application to interact with the DuckDuckGo search engine API. This application allows you to search for text, images, videos, news, maps, and translate content. It also includes an AI chat feature that allows you to have anonymous conversations with 3rd-party AI chat models. 
 
 Features
 --------
@@ -73,4 +73,4 @@ API Reference
 Acknowledgement & Contributing
 ------------
 
-This interface is developed to provide a simple interface for the [DuckDuckGo API](https://github.com/deedy5/duckduckgo_search) and depends on it for working. However, I am not a developer for that API. Contributions are welcome!
+This interface is developed to provide a simple web app for the [DuckDuckGo API](https://github.com/deedy5/duckduckgo_search). Please note that I am currently not a developer for that API. Contributions are welcome. Feel free to make a pull resuest.
