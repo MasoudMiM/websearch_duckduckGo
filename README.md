@@ -32,6 +32,10 @@ To run the application, execute the following command:
 streamlit run app.py
 ```
 
+See the online version [here](https://masoudmim-websearch-duckduckgo-duckduckgo-api-app-tndjzg.streamlit.app).
+
+![streamlitprev](./preview.gif)
+
 Examples
 --------
 
@@ -66,9 +70,6 @@ See an example input [here](https://github.com/MasoudMiM/duckduckgo_search/tree/
 See an example input [here](https://github.com/MasoudMiM/duckduckgo_search/tree/main?tab=readme-ov-file#8-translate---translation-by-duckduckgocom).
 
 According to DuckDuckGo, "For our translation feature, we've partnered with Microsoft but we still proxy your queries through our servers before passing them to search result and Instant Answer providers, so they stay completely anonymous."
-
-API Reference
--------------
 
 Acknowledgement & Contributing
 ------------
